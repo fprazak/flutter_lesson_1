@@ -9,8 +9,11 @@ In this project, you will find how to add a launcher icon, splash screen, and in
 Run your simulator and then in your terminal:
 
 flutter pub get
+
 flutter pub run flutter_launcher_icons
+
 dart run flutter_native_splash:create 
+
 flutter run
 
 ![Screenshot 2023-12-16 at 17 04 21](https://github.com/fprazak/flutter_lesson_1/assets/12132490/2e9a9a1b-d4b7-48cb-9f7e-fdcbf7a003e8)
